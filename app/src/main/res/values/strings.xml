@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shop App</string>
+    <string name="intro_heading">Step into your style <font color="purple">\n A world of shoes</font></string>
+    <string name="intro_paragraph_content">Browse the latest styles from top brands\n Get personalized recommendations\nEnjoy fast free shipping</string>
+    <string name="intro_button_text_let_s_get_started">Let\'s get Started</string>
+    <string name="sing_in_message">Already have a account <font color="purple">Sign in </font></string>
+
+</resources>
